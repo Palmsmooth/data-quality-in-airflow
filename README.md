@@ -1,4 +1,4 @@
-# Data Engineering Project: data-quality-in-airflow
+# Data Engineering Project: Data Quality in Airflow
 ## Project Overview
 
 This project aims to develop a data quality monitoring and validation system for workflows in Apache Airflow. The system focuses on ensuring data reliability by implementing automated checks such as data freshness (SLA monitoring), SQL-based validations, and integrations with Great Expectations for advanced data validation.
